@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @percydev11
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning Java, JavaScript, Cloud
 - 💞️ I’m looking to collaborate on (I still do not collaborate, soon I will).
 - 📫 How to reach me @VanesaPercy in Twitter.
 
